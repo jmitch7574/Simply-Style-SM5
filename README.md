@@ -1,3 +1,17 @@
+# Simply Style (Fork)
+
+![Arrow Logo](https://i.imgur.com/oZmxyGo.png)
+
+This fork aims to:
+- add more appearance customisation to the Simply Love theme
+  - New Fonts, including the means for users to implement their own
+  - New Title Screens
+  - New SFX
+  - New Graphics for Ranks
+  - Option Menus for all the above
+
+This fork is merely a personal project, do not expect anything professional out of it 😅
+
 # Simply Love (ITGmania)
 
 ![Arrow Logo](https://i.imgur.com/oZmxyGo.png)
